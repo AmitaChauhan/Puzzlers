@@ -1,0 +1,17 @@
+.welcome-message {
+    text-align: center;
+}
+
+.welcome-message-font {
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 6rem;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 2rem;
+}
+
+.icon-centre {
+    text-align: center;
+}
